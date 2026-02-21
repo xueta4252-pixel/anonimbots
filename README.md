@@ -35,8 +35,6 @@ anontg/
 │   ├── handlers.py       # вся логика бота
 │   ├── storage.py        # работа с данными
 │   ├── requirements.txt  # зависимости
-│   ├── .gitignore        # что не пушить на GitHub
-│   └── GEMINI.md         # правила для LLM
 ├── data/
 │   └── storage.json      # база данных бота
 └── logs/
